@@ -6,7 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>This is a simple React App for deploying to Netlify</p>
+        <p>This is a simple React App for deploying to Netlify.</p>
+        <p>It is connected to its GitHub repository.</p>
+        <a href="https://github.com/jinook929/netlify-deployment-demo">(netlify-deployment-demo)</a>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
