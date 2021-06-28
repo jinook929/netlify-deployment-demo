@@ -1,10 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+// import logo from './logo.svg';
+// import './App.css';
+import Title from './components/Title';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <Title />
+      {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>This is a simple React App for deploying to Netlify.</p>
         <p>It is connected to its GitHub repository.</p>
@@ -20,7 +22,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header> */}
     </div>
   );
 }
