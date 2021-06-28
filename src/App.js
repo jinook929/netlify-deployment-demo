@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>This is a simple React App for deploying to Netlify.</p>
         <p>It is connected to its GitHub repository.</p>
-        <a href="https://github.com/jinook929/netlify-deployment-demo" target="_blank">(netlify-deployment-demo)</a>
+        <a href="https://github.com/jinook929/netlify-deployment-demo" target="_blank" rel="noreferrer">(netlify-deployment-demo)</a>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
